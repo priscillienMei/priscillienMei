@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @priscillienMei
-- 👀 I’m interested in SysAdmin, Dev, Ethical Hacking, Grow Marketing
+- 👀 I’m interested in SysAdmin, Dev, Ethical Hacking, Growth Marketing
 - 🌱 I’m currently learning Python
 - 📫 To reach me contact me on my website https://priscillien.fr
 
